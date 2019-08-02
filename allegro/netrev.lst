@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : arduino_r3.brd                                )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Fri Aug 02 11:36:10 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\USER\DESKTOP\ARDUINO_R3\ARDUION_UNO_R3-MASTER (2)\ARDUION_UNO_R3-MASTER\allegro'
+Design Directory:            'C:/Users/user/Desktop/Arduino_r3/arduion_uno_r3-master (2)/arduion_uno_r3-master'
+Old design name:             'C:/Users/user/Desktop/Arduino_r3/arduion_uno_r3-master (2)/arduion_uno_r3-master/arduino_r3.brd'
+New design name:             'C:/Users/user/Desktop/Arduino_r3/arduion_uno_r3-master (2)/arduion_uno_r3-master/arduino_r3_1.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\USER\DESKTOP\ARDUINO_R3\ARDUION_UNO_R3-MASTER (2)\ARDUION_UNO_R3-MASTER\allegro C:\Users\user\Desktop\Arduino_r3\arduion_uno_r3-master (2)\arduion_uno_r3-master\arduino_r3.brd C:\Users\user\Desktop\Arduino_r3\arduion_uno_r3-master (2)\arduion_uno_r3-master\arduino_r3_1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstchip.dat 
+   Finished reading C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstchip.dat (00:00:00.01)
+Starting to read C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstxprt.dat 
+   Finished reading C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstxnet.dat 
+   Finished reading C:/USERS/USER/DESKTOP/ARDUINO_R3/ARDUION_UNO_R3-MASTER (2)/ARDUION_UNO_R3-MASTER/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/USERS/USER/DESKTOP/WORK/PCB_LIB/PSM/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/work/pcb_lib/pad/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Aug 2 11:36:10 2019
+   DESIGN NAME : 'ARDUINO_UNO'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:53
+elapsed time  0:00:00
+

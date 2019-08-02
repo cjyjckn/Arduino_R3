@@ -1,0 +1,1680 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Aug 02 11:36:13 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=8056 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe -mpssession user C:\Users\user\Desktop\Arduino_r3\arduion_uno_r3-master (2)\arduion_uno_r3-master\arduino_r3_1.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/user/Desktop/Arduino_r3/arduion_uno_r3-master (2)/arduion_uno_r3-master/arduino_r3_1.brd
+\i (00:00:05) trapsize 13274
+\i (00:00:05) trapsize 13871
+\i (00:00:05) trapsize 13871
+\i (00:00:05) trapsize 13274
+\i (00:00:05) trapsize 156316
+\i (00:00:05) generaledit 
+\i (00:00:57) drag_start grid 137.6991 88.8496
+\i (00:00:57) drag_stop -47.6106 -40.9735
+\i (00:00:58) drag_start grid 152.0354 63.8938
+\i (00:00:58) drag_stop -49.4690 -44.1593
+\i (00:00:58) pick grid 127.8761 23.8053
+\t (00:00:58) last pick:  127.8760 23.8050
+\i (00:00:58) drag_start grid 132.3894 79.8230
+\i (00:00:58) drag_stop -47.6106 -45.7522
+\i (00:00:59) drag_start grid 234.0708 50.3540
+\i (00:00:59) drag_stop 226.1062 53.0089
+\i (00:00:59) drag_start grid 190.7965 93.8938
+\i (00:00:59) drag_stop -47.6106 -48.9381
+\i (00:00:59) drag_start grid 247.3452 31.2389
+\i (00:00:59) drag_stop 244.4248 40.2655
+\i (00:01:00) drag_start grid 202.2124 104.2478
+\i (00:01:00) drag_stop
+\i (00:01:00) pick 182.5664 50.0885
+\t (00:01:00) last pick:  182.5664 50.0885
+\i (00:01:04) grid toggle 
+\t (00:01:04) Grids are drawn 2.0480, 2.0480 apart for enhanced viewability.
+\i (00:01:04) generaledit 
+\i (00:01:05) grid toggle 
+\i (00:01:05) generaledit 
+\i (00:01:10) quickplace 
+\i (00:01:11) setwindow form.quickplc
+\i (00:01:11) FORM quickplc place  
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:12) FORM quickplc done  
+\i (00:01:12) setwindow pcb
+\i (00:01:12) generaledit 
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 25.9292 85.9292
+\i (00:01:13) trapsize 6637
+\i (00:01:13) zoom in 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom in 26.0619 85.3982
+\i (00:01:13) trapsize 3319
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 35.3540 83.4734
+\i (00:01:14) trapsize 6637
+\i (00:01:19) done 
+\i (00:01:20) place manual 
+\i (00:01:20) FORM plc_manual placement_list 
+\i (00:01:20) FORM plc_manual categories Components by refdes 
+\i (00:01:20) trapsize 6637
+\i (00:01:22) setwindow form.plc_manual
+\i (00:01:22) FORM plc_manual advanced_settings  
+\i (00:01:22) FORM plc_manual library YES 
+\i (00:01:23) FORM plc_manual placement_list  
+\i (00:01:24) FORM plc_manual categories Components by net group 
+\i (00:01:24) FORM plc_manual categories Components by refdes 
+\i (00:01:25) FORM plc_manual cancel  
+\i (00:01:25) setwindow pcb
+\i (00:01:25) generaledit 
+\i (00:01:28) pick grid 96.6815 100.1991
+\t (00:01:28) last pick:  96.6820 100.1990
+\i (00:01:29) pick grid 93.3629 91.8363
+\t (00:01:29) last pick:  93.3630 91.8360
+\i (00:01:29) drag_start grid 106.9027 110.8186
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -32
+\i (00:01:29) roam x -32
+\i (00:01:29) drag_stop
+\i (00:01:30) pick 116.1947 70.3319
+\t (00:01:30) last pick:  116.1947 70.3319
+\i (00:01:31) pick 88.8496 76.0398
+\t (00:01:31) last pick:  88.8496 76.0398
+\i (00:01:32) save 
+\i (00:01:33) fillin yes 
+\i (00:01:33) generaledit 
+\i (00:01:34) zoom out 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom out 71.1947 79.8894
+\i (00:01:34) trapsize 13274
+\i (00:01:34) zoom in 1 
+\i (00:01:34) setwindow pcb
+\i (00:01:34) zoom in 89.9115 58.0531
+\i (00:01:34) trapsize 6637
+\i (00:01:35) roam start
+\i (00:01:35) roam x -16
+\i (00:01:35) roam x -96
+\i (00:01:35) roam y -32
+\i (00:01:35) roam x -144
+\i (00:01:35) roam y -48
+\i (00:01:35) roam x -160
+\i (00:01:35) roam y -64
+\i (00:01:35) roam x -80
+\i (00:01:35) roam y -64
+\i (00:01:35) roam x -16
+\i (00:01:35) roam x 32
+\i (00:01:35) roam y -16
+\i (00:01:35) roam x 80
+\i (00:01:35) roam y -16
+\i (00:01:36) roam end
+\i (00:01:37) color192 
+\i (00:01:38) generaledit 
+\i (00:01:45) QtSignal CVDLayerContainer CVDVisibilityOn clicked
+\i (00:01:47) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:01:49) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:01:50) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:01:50) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:01:52) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:01:52) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:01:53) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:01:54) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:01:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline Drawing
+\i (00:01:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:01:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline Drawing
+\i (00:01:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:01:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline Drawing
+\i (00:01:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:57) roam start
+\i (00:01:57) roam y 64
+\i (00:01:57) roam y 80
+\i (00:01:57) roam y 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam y 64
+\i (00:01:57) roam x 16
+\i (00:01:57) roam y 16
+\i (00:01:57) roam end
+\i (00:01:59) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:01:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline Drawing
+\i (00:01:59) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:02:01) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:02:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:02:02) QtSignal CVDLayerTable VertHeader clickedCheckBox 7
+\i (00:02:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top CmpVal
+\i (00:02:06) roam start
+\i (00:02:06) roam x -64
+\i (00:02:06) roam y 96
+\i (00:02:06) roam x -16
+\i (00:02:06) roam y 32
+\i (00:02:06) roam y 16
+\i (00:02:06) roam x -16
+\i (00:02:06) roam y 16
+\i (00:02:06) roam end
+\i (00:02:11) shape merge shapes 
+\t (00:02:11) Pick primary shape to merge to
+\i (00:02:15) prepopup 117.2566 58.0531
+\i (00:02:15) cancel 
+\i (00:02:16) generaledit 
+\i (00:02:18) compose shape 
+   (00:02:19) Loading apt.cxt 
+   (00:02:19) Loading apt_utils.cxt 
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 59.3805 33.0973
+\i (00:02:26) trapsize 13274
+\i (00:02:26) zoom out 1 
+\i (00:02:26) setwindow pcb
+\i (00:02:26) zoom out 156.2832 54.8673
+\i (00:02:26) trapsize 13274
+\i (00:02:27) zoom in 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom in 83.0089 41.3274
+\i (00:02:27) trapsize 6637
+\i (00:02:27) zoom in 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom in 77.5665 33.2301
+\i (00:02:27) trapsize 3319
+\i (00:02:28) roam start
+\i (00:02:28) roam x -64
+\i (00:02:28) roam x -224
+\i (00:02:28) roam x -224
+\i (00:02:28) roam x -176
+\i (00:02:28) roam y 32
+\i (00:02:28) roam x -96
+\i (00:02:28) roam y 16
+\i (00:02:28) roam x -48
+\i (00:02:28) roam end
+\i (00:02:35) setwindow form.mini
+\i (00:02:35) FORM mini class BOARD GEOMETRY 
+\i (00:02:37) FORM mini subclass SILKSCREEN_TOP 
+\i (00:02:44) setwindow pcb
+\i (00:02:44) pick 73.1859 55.9956
+\t (00:02:44) last pick:  73.1859 55.9956
+\t (00:02:44) No Element Found.
+\i (00:02:44) prepopup 73.7832 56.3274
+\i (00:02:45) pick 76.1062 58.0531
+\t (00:02:45) last pick:  76.1062 58.0531
+\t (00:02:45) No Element Found.
+\i (00:02:50) quickplace 
+\i (00:02:51) setwindow form.quickplc
+\i (00:02:51) FORM quickplc unplace  
+\i (00:02:53) FORM quickplc unplace  
+\i (00:02:53) FORM quickplc place  
+\i (00:02:54) FORM quickplc unplace  
+\i (00:02:55) FORM quickplc done  
+\i (00:02:55) setwindow pcb
+\i (00:02:55) generaledit 
+\i (00:02:55) zoom out 1 
+\i (00:02:55) setwindow pcb
+\i (00:02:55) zoom out 66.9469 49.0266
+\i (00:02:55) trapsize 6637
+\i (00:02:56) roam start
+\i (00:02:56) roam y -96
+\i (00:02:56) roam y -64
+\i (00:02:56) roam y -64
+\i (00:02:56) roam end
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 33.0974 51.8142
+\i (00:02:59) trapsize 3319
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 33.0974 51.8142
+\i (00:02:59) trapsize 1659
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in 33.0974 51.8142
+\i (00:02:59) trapsize 830
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 32.6992 52.1129
+\i (00:03:00) trapsize 1659
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 32.5002 52.3120
+\i (00:03:00) trapsize 3319
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out 32.3674 52.5774
+\i (00:03:00) trapsize 6637
+\i (00:03:04) color192 
+\i (00:03:04) generaledit 
+\i (00:03:05) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:03:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:03:08) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 1 0
+\i (00:03:08) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Outline Drawing
+\i (00:03:08) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:10) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:03:15) compose shape 
+\i (00:03:17) setwindow form.mini
+\i (00:03:17) FORM mini class BOARD GEOMETRY 
+\i (00:03:21) FORM mini subclass SILKSCREEN_TOP 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) prepopup 76.7036 50.9845
+\i (00:03:23) pop Temp Group 
+\i (00:03:24) zoom in 1 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom in 63.4293 50.8517
+\i (00:03:24) trapsize 3319
+\i (00:03:24) drag_start 64.7568 55.4314
+\i (00:03:24) drag_stop 61.1063 49.6571
+\i (00:03:25) drag_start 68.8718 50.4535
+\i (00:03:25) drag_stop 63.9603 46.7367
+\i (00:03:26) drag_start 67.2125 53.1084
+\i (00:03:26) drag_stop 62.6329 49.1925
+\t (00:03:26) No Element Found.
+\i (00:03:26) drag_start 69.9338 40.4314
+\i (00:03:27) drag_stop 66.2833 38.1748
+\i (00:03:27) drag_start 69.3364 41.4270
+\i (00:03:28) drag_stop 62.5665 39.4358
+\t (00:03:28) No Element Found.
+\i (00:03:28) drag_start 70.7966 39.0376
+\i (00:03:29) drag_stop 67.8099 36.7146
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 70.6639 37.4447
+\i (00:03:29) trapsize 6637
+\i (00:03:29) zoom out 1 
+\i (00:03:29) setwindow pcb
+\i (00:03:29) zoom out 74.2478 37.4447
+\i (00:03:29) trapsize 13274
+\i (00:03:30) zoom in 1 
+\i (00:03:30) setwindow pcb
+\i (00:03:30) zoom in 91.7699 -3.2743
+\i (00:03:30) trapsize 6637
+\i (00:03:31) roam start
+\i (00:03:31) roam x -112
+\i (00:03:31) roam x -176
+\i (00:03:31) roam x -80
+\i (00:03:31) roam x -64
+\i (00:03:31) roam x -16
+\i (00:03:31) roam end
+\i (00:03:31) zoom in 1 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom in 74.3805 -0.0884
+\i (00:03:31) trapsize 3319
+\i (00:03:32) drag_start 71.9911 4.8895
+\i (00:03:32) drag_stop 61.5708 -3.2078
+\i (00:03:33) drag_start 71.5265 1.4382
+\i (00:03:33) drag_stop 59.3141 -2.9423
+\t (00:03:33) No Element Found.
+\i (00:03:34) roam start
+\i (00:03:34) roam x -176
+\i (00:03:34) roam y 16
+\i (00:03:34) roam x -320
+\i (00:03:34) roam y 32
+\i (00:03:34) roam x -144
+\i (00:03:34) roam y 16
+\i (00:03:34) roam x -112
+\i (00:03:34) roam y 16
+\i (00:03:34) roam x -80
+\i (00:03:34) roam y 16
+\i (00:03:34) roam x -16
+\i (00:03:34) roam x -16
+\i (00:03:34) roam end
+\i (00:03:35) drag_start 3.9602 6.9469
+\i (00:03:35) drag_stop -6.8584 -6.3274
+\i (00:03:35) roam start
+\i (00:03:35) roam x -16
+\i (00:03:35) roam y -80
+\i (00:03:35) roam y -16
+\i (00:03:36) roam end
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 1.0398 -0.8186
+\i (00:03:36) trapsize 1659
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 1.1062 -0.8186
+\i (00:03:36) trapsize 830
+\i (00:03:36) zoom in 1 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 1.1062 -0.8185
+\i (00:03:36) trapsize 415
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out 1.1561 -0.0967
+\i (00:03:37) trapsize 830
+\i (00:03:37) zoom out 1 
+\i (00:03:37) setwindow pcb
+\i (00:03:37) zoom out 1.2556 0.9819
+\i (00:03:37) trapsize 1659
+\i (00:03:37) roam start
+\i (00:03:37) roam y -32
+\i (00:03:37) roam y -112
+\i (00:03:37) roam x 16
+\i (00:03:37) roam y -112
+\i (00:03:37) roam y -128
+\i (00:03:37) roam y -96
+\i (00:03:37) roam y -16
+\i (00:03:38) roam y -32
+\i (00:03:38) roam y -48
+\i (00:03:38) roam x 16
+\i (00:03:38) roam y -48
+\i (00:03:38) roam y -64
+\i (00:03:38) roam y -80
+\i (00:03:38) roam y -48
+\i (00:03:38) roam y -48
+\i (00:03:38) roam x -16
+\i (00:03:38) roam y -80
+\i (00:03:38) roam y -48
+\i (00:03:38) roam y -48
+\i (00:03:38) roam y -32
+\i (00:03:38) roam y -48
+\i (00:03:38) roam x -16
+\i (00:03:38) roam y -64
+\i (00:03:38) roam x -16
+\i (00:03:38) roam y -80
+\i (00:03:38) roam y -80
+\i (00:03:38) roam x -16
+\i (00:03:38) roam y -64
+\i (00:03:38) roam y -64
+\i (00:03:38) roam y -64
+\i (00:03:38) roam y -16
+\i (00:03:38) roam end
+\i (00:03:39) drag_start 3.1638 55.9624
+\i (00:03:39) drag_stop -4.8340 50.2876
+\i (00:03:39) drag_start 1.1062 55.1327
+\i (00:03:39) drag_stop -6.3274 49.5907
+\t (00:03:39) No Element Found.
+\i (00:03:40) roam start
+\i (00:03:40) roam x 160
+\i (00:03:40) roam y -16
+\i (00:03:40) roam x 272
+\i (00:03:40) roam y -32
+\i (00:03:40) roam x 32
+\i (00:03:40) roam x 16
+\i (00:03:40) roam end
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 38.9049 49.5575
+\i (00:03:41) trapsize 3319
+\i (00:03:41) zoom out 1 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 41.1615 47.5000
+\i (00:03:41) trapsize 6637
+\i (00:03:42) prepopup 92.3009 52.0132
+\i (00:03:43) pop Complete 
+\i (00:03:43) prepopup 93.8938 58.3849
+\i (00:03:44) pop Done 
+\i (00:03:44) generaledit 
+\i (00:03:46) color192 
+\i (00:03:47) generaledit 
+\i (00:03:48) QtSignal CVDLayerContainer CVDVisibilityOff clicked
+\i (00:03:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:03:50) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:51) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:03:53) QtSignal CVDLayerTable VertHeader clickedCheckBox 28
+\i (00:03:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Top PkgGeo
+\i (00:03:56) QtSignal CVDLayerTable VertHeader clickedCheckBox 27
+\i (00:03:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Bottom PkgGeo
+\i (00:03:57) QtSignal CVDLayerTable VertHeader clickedCheckBox 27
+\i (00:03:57) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Silkscreen_Bottom PkgGeo
+\i (00:03:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:03:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:03:59) QtSignal CVDLayerTable VertHeader clickedCheckBox 0
+\i (00:03:59) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Top Pin
+\i (00:04:00) QtSignal CVDLayerTable VertHeader clickedCheckBox 1
+\i (00:04:00) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Bottom Pin
+\i (00:04:04) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:05) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:05) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:06) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:04:08) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Stack-Up
+\i (00:04:10) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas
+\i (00:04:12) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:13) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:14) QtSignal CVDLayerSplitter CVDLayerTable allBoxClicked
+\i (00:04:15) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:04:16) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 0
+\i (00:04:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Autosilk_Bottom Mfg
+\i (00:04:21) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:04:22) QtSignal CVDLayerTable CVDLayerTableHorzHeader clickedCheckBox 1
+\i (00:04:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged Assembly_Bottom RefDes
+\i (00:04:25) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:04:25) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:04:26) roam start
+\i (00:04:26) roam y 96
+\i (00:04:26) roam y 96
+\i (00:04:26) roam y 16
+\i (00:04:27) roam y 32
+\i (00:04:27) roam y 16
+\i (00:04:27) roam y 16
+\i (00:04:27) roam end
+\i (00:04:27) zoom in 1 
+\i (00:04:27) setwindow pcb
+\i (00:04:27) zoom in 76.9027 63.8938
+\i (00:04:27) trapsize 3319
+\i (00:04:28) zoom out 1 
+\i (00:04:28) setwindow pcb
+\i (00:04:28) zoom out 70.3983 64.4912
+\i (00:04:28) trapsize 6637
+\i (00:04:28) roam start
+\i (00:04:28) roam x -48
+\i (00:04:28) roam y -80
+\i (00:04:28) roam y -80
+\i (00:04:29) roam y -48
+\i (00:04:29) roam x 16
+\i (00:04:29) roam y -112
+\i (00:04:29) roam y -112
+\i (00:04:29) roam y -16
+\i (00:04:29) roam x -16
+\i (00:04:29) roam y 96
+\i (00:04:29) roam y 48
+\i (00:04:29) roam y 16
+\i (00:04:29) roam y 16
+\i (00:04:29) roam y 32
+\i (00:04:29) roam y 32
+\i (00:04:30) roam y 16
+\i (00:04:30) roam y 32
+\i (00:04:30) roam y 16
+\i (00:04:30) roam y 16
+\i (00:04:30) roam y 16
+\i (00:04:30) roam y 16
+\i (00:04:30) roam end
+\i (00:04:33) roam start
+\i (00:04:33) roam y -80
+\i (00:04:33) roam x 16
+\i (00:04:33) roam y -80
+\i (00:04:33) roam x 16
+\i (00:04:33) roam y -80
+\i (00:04:34) roam y -16
+\i (00:04:34) roam end
+\i (00:04:35) roam start
+\i (00:04:35) roam y 160
+\i (00:04:35) roam x -32
+\i (00:04:35) roam y 112
+\i (00:04:35) roam y 32
+\i (00:04:35) roam end
+\i (00:04:36) prepopup 89.5132 75.7080
+\i (00:04:37) pick grid 91.1062 85.7965
+\t (00:04:37) last pick:  91.1060 85.7970
+\i (00:04:37) pick grid 99.4690 62.4337
+\t (00:04:37) last pick:  99.4690 62.4340
+\i (00:04:38) save 
+\i (00:04:39) fillin yes 
+\i (00:04:39) generaledit 
+\i (00:04:39) roam start
+\i (00:04:39) roam y -96
+\i (00:04:39) roam x 32
+\i (00:04:39) roam y -112
+\i (00:04:39) roam end
+\i (00:04:40) roam start
+\i (00:04:40) roam x -16
+\i (00:04:40) roam y 192
+\i (00:04:40) roam end
+\i (00:04:42) roam start
+\i (00:04:42) roam x -16
+\i (00:04:42) roam y -64
+\i (00:04:42) roam y -16
+\i (00:04:43) roam y -48
+\i (00:04:43) roam y -32
+\i (00:04:43) roam y -16
+\i (00:04:43) roam y -32
+\i (00:04:43) roam y -16
+\i (00:04:43) roam x 16
+\i (00:04:43) roam y -16
+\i (00:04:45) roam end
+\i (00:04:53) trapsize 12367
+\i (00:04:54) trapsize 6637
+\i (00:05:01) pick grid 96.0177 98.1846
+\t (00:05:01) last pick:  96.0180 98.1850
+\i (00:05:02) roam start
+\i (00:05:02) roam y 112
+\i (00:05:02) roam x -16
+\i (00:05:02) roam y 128
+\i (00:05:02) roam y 96
+\i (00:05:02) roam y 48
+\i (00:05:02) roam y -16
+\i (00:05:02) roam y -80
+\i (00:05:02) roam y -48
+\i (00:05:02) roam y -32
+\i (00:05:02) roam y -16
+\i (00:05:02) roam y -48
+\i (00:05:02) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:03) roam y -16
+\i (00:05:04) roam y -16
+\i (00:05:04) roam y -32
+\i (00:05:04) roam y -16
+\i (00:05:05) roam x 16
+\i (00:05:05) roam y 32
+\i (00:05:05) roam x 16
+\i (00:05:05) roam y 96
+\i (00:05:05) roam x 16
+\i (00:05:05) roam y 80
+\i (00:05:05) roam y 64
+\i (00:05:05) roam x 16
+\i (00:05:05) roam y 16
+\i (00:05:06) roam end
+\i (00:05:08) roam start
+\i (00:05:08) roam x -32
+\i (00:05:08) roam y -64
+\i (00:05:08) roam x -32
+\i (00:05:08) roam y -48
+\i (00:05:08) roam end
+\i (00:05:24) roam start
+\i (00:05:24) roam y -48
+\i (00:05:25) roam y 16
+\i (00:05:25) roam y 32
+\i (00:05:25) roam y 16
+\i (00:05:25) roam y 32
+\i (00:05:25) roam end
+\i (00:05:28) roam start
+\i (00:05:28) roam y -48
+\i (00:05:28) roam y -80
+\i (00:05:28) roam y -160
+\i (00:05:28) roam y -128
+\i (00:05:28) roam y -16
+\i (00:05:28) roam y 80
+\i (00:05:28) roam y 32
+\i (00:05:28) roam y 64
+\i (00:05:28) roam y 96
+\i (00:05:28) roam y 64
+\i (00:05:28) roam end
+\i (00:05:29) move 
+\t (00:05:30) Select element(s) to move.
+\i (00:05:30) pick grid 11.9912 59.6460
+\t (00:05:30) last pick:  11.9910 59.6460
+\t (00:05:30) last pick:  11.0772 62.4920
+\t (00:05:30) Moving IC2 / ATMEGA8-TQFP32_0_SOJ36_ATMEGA8U / SOJ36.
+\t (00:05:30) Pick new location for the element(s).
+\i (00:05:31) roam start
+\i (00:05:31) roam y 96
+\i (00:05:31) roam y 112
+\i (00:05:31) roam y 80
+\i (00:05:31) roam y -48
+\i (00:05:31) roam y -192
+\i (00:05:31) roam y -160
+\i (00:05:31) roam y -32
+\i (00:05:31) roam y -16
+\i (00:05:31) roam y 48
+\i (00:05:31) roam y 80
+\i (00:05:31) roam y 96
+\i (00:05:31) roam y 64
+\i (00:05:32) roam end
+\i (00:05:33) pick grid 32.0354 25.7965
+\t (00:05:33) last pick:  32.0350 25.7970
+\i (00:05:34) pick grid 23.9381 63.0974
+\t (00:05:34) last pick:  23.9380 63.0970
+\t (00:05:34) last pick:  25.0218 59.7488
+\t (00:05:34) Moving IC1 / ATMEGA8-TQFP32_1_SOJ28_ATMEGA32 / SOJ28.
+\t (00:05:34) Pick new location for the element(s).
+\i (00:05:35) pick grid 18.4956 22.6107
+\t (00:05:35) last pick:  18.4960 22.6110
+\i (00:05:37) pick grid 55.2655 53.9381
+\t (00:05:37) last pick:  55.2660 53.9380
+\t (00:05:37) last pick:  55.1966 54.7790
+\t (00:05:37) Moving ICSP2 / CON6AP_3_AMPHENOL_95278-101A06L / AMPHENOL_95278-101A06LF.
+\t (00:05:37) Pick new location for the element(s).
+\i (00:05:37) pick grid 46.2389 19.1593
+\t (00:05:37) last pick:  46.2390 19.1590
+\i (00:05:38) pick grid 47.0354 63.0974
+\t (00:05:38) last pick:  47.0350 63.0970
+\t (00:05:38) last pick:  44.5544 69.6040
+\t (00:05:38) Moving AD1 / CON8_0_SIP8_IOL / SIP8.
+\t (00:05:38) Pick new location for the element(s).
+\e (00:05:43) Command not found: RR
+\e (00:05:45) Command not found: RR
+\i (00:05:46) pick grid 5.8850 30.9735
+\t (00:05:46) last pick:  5.8850 30.9740
+\i (00:05:47) pick grid 8.1416 81.0177
+\t (00:05:47) last pick:  8.1420 81.0180
+\t (00:05:47) last pick:  7.7240 81.0680
+\t (00:05:47) Moving ICSP1 / CON6A_AMPHENOL_95278-101A06LF_3 / AMPHENOL_95278-101A06LF.
+\t (00:05:47) Pick new location for the element(s).
+\i (00:05:48) pick grid 13.4513 37.0797
+\t (00:05:48) last pick:  13.4510 37.0800
+\i (00:05:49) pick grid 26.9912 76.9027
+\t (00:05:49) last pick:  26.9910 76.9030
+\t (00:05:49) last pick:  22.9080 78.3670
+\t (00:05:49) Moving X2 / CON4_JUMPER4_CON4 / JUMPER4.
+\t (00:05:49) Pick new location for the element(s).
+\i (00:05:49) pick grid 43.9823 42.1239
+\t (00:05:49) last pick:  43.9820 42.1240
+\i (00:05:50) pick grid 45.1770 76.6372
+\t (00:05:50) last pick:  45.1770 76.6370
+\t (00:05:50) last pick:  38.8592 78.3670
+\t (00:05:50) Moving U2 / CON4_JUMPER4_NCP117ST50T3G / JUMPER4.
+\t (00:05:50) Pick new location for the element(s).
+\i (00:05:51) pick grid 43.7168 38.6726
+\t (00:05:51) last pick:  43.7170 38.6730
+\i (00:05:52) pick grid 54.3363 77.5664
+\t (00:05:52) last pick:  54.3360 77.5660
+\t (00:05:52) last pick:  49.2732 78.3670
+\t (00:05:52) Moving JP1 / CON4A_JUMPER4_2X2 M - NM / JUMPER4.
+\t (00:05:52) Pick new location for the element(s).
+\i (00:05:53) pick grid 43.5841 34.4248
+\t (00:05:53) last pick:  43.5840 34.4250
+\i (00:05:53) pick grid 48.6283 64.0266
+\t (00:05:53) last pick:  48.6280 64.0270
+\t (00:05:53) last pick:  48.5676 69.6040
+\t (00:05:53) Moving POWER1 / CON8_0_SIP8_8X1F-H8.5 / SIP8.
+\t (00:05:53) Pick new location for the element(s).
+\i (00:05:54) pick grid 61.9027 31.1062
+\t (00:05:54) last pick:  61.9030 31.1060
+\i (00:05:55) pick grid 34.2920 69.6018
+\t (00:05:55) last pick:  34.2920 69.6020
+\t (00:05:55) last pick:  33.7848 74.6840
+\t (00:05:55) Moving IOH1 / CON10_SIP10_10X1F-H8.5 / SIP10.
+\t (00:05:55) Pick new location for the element(s).
+\i (00:05:56) pick grid 57.1239 31.7700
+\t (00:05:56) last pick:  57.1240 31.7700
+\i (00:05:57) pick grid 37.4779 53.9381
+\t (00:05:57) last pick:  37.4780 53.9380
+\t (00:05:57) last pick:  38.8775 53.0940
+\t (00:05:57) Moving U1 / LM358_2_SOIC8_LM358IDGKR / SOIC8.
+\t (00:05:57) Pick new location for the element(s).
+\i (00:05:58) pick grid 50.8850 6.8142
+\t (00:05:58) last pick:  50.8850 6.8140
+\i (00:05:59) roam start
+\i (00:05:59) roam y -64
+\i (00:05:59) roam y -96
+\i (00:05:59) roam y -112
+\i (00:05:59) roam y -16
+\i (00:05:59) roam end
+\i (00:06:01) roam start
+\i (00:06:01) roam x 32
+\i (00:06:01) roam y 112
+\i (00:06:01) roam x 32
+\i (00:06:01) roam y 240
+\i (00:06:01) roam y 32
+\i (00:06:01) roam x -16
+\i (00:06:01) roam y -48
+\i (00:06:01) roam x -16
+\i (00:06:01) roam y -80
+\i (00:06:01) roam y -64
+\i (00:06:01) roam y -16
+\i (00:06:01) roam x -16
+\i (00:06:01) roam y -48
+\i (00:06:02) roam y -16
+\i (00:06:02) roam y -32
+\i (00:06:02) roam y -16
+\i (00:06:02) roam x 16
+\i (00:06:02) roam y -80
+\i (00:06:02) roam x 32
+\i (00:06:02) roam y -64
+\i (00:06:03) roam x -16
+\i (00:06:03) roam y 16
+\i (00:06:03) roam y 16
+\i (00:06:03) roam x -16
+\i (00:06:03) roam y 16
+\i (00:06:03) roam end
+\i (00:06:05) roam start
+\i (00:06:05) roam y 80
+\i (00:06:05) roam y 16
+\i (00:06:05) roam end
+\i (00:06:12) roam start
+\i (00:06:12) roam x -32
+\i (00:06:12) roam y 96
+\i (00:06:13) roam y 64
+\i (00:06:13) roam y 16
+\i (00:06:13) roam y 96
+\i (00:06:13) roam y 48
+\i (00:06:13) roam end
+\i (00:06:17) roam start
+\i (00:06:17) roam x 16
+\i (00:06:17) roam y -64
+\i (00:06:17) roam x 32
+\i (00:06:17) roam y -80
+\i (00:06:17) roam y -32
+\i (00:06:17) roam y -32
+\i (00:06:17) roam y -16
+\i (00:06:17) roam y -32
+\i (00:06:17) roam y -16
+\i (00:06:17) roam y -32
+\i (00:06:18) roam x 16
+\i (00:06:18) roam y -16
+\i (00:06:18) roam y -16
+\i (00:06:18) roam y -32
+\i (00:06:18) roam x 16
+\i (00:06:18) roam y -16
+\i (00:06:18) roam end
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 30.1770 92.9647
+\i (00:06:22) trapsize 3319
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 30.1771 92.9647
+\i (00:06:22) trapsize 1659
+\i (00:06:22) zoom in 1 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) zoom in 30.1771 92.9647
+\i (00:06:22) trapsize 830
+\i (00:06:24) pick grid 33.9437 93.7943
+\t (00:06:24) last pick:  33.9440 93.7940
+\t (00:06:24) last pick:  33.4673 93.8610
+\t (00:06:24) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:06:24) Pick new location for the element(s).
+\i (00:06:26) roam start
+\i (00:06:26) roam x -32
+\i (00:06:26) roam y 144
+\i (00:06:26) roam x -16
+\i (00:06:26) roam y 144
+\i (00:06:26) roam x -16
+\i (00:06:26) roam y 128
+\i (00:06:26) roam y 80
+\i (00:06:26) roam y 80
+\i (00:06:26) roam x 16
+\i (00:06:26) roam y -32
+\i (00:06:26) roam x 32
+\i (00:06:26) roam y -48
+\i (00:06:26) roam y -112
+\i (00:06:26) roam y -112
+\i (00:06:26) roam y -80
+\i (00:06:26) roam x 16
+\i (00:06:26) roam y -32
+\i (00:06:26) roam end
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 44.5962 87.2898
+\i (00:06:27) trapsize 1659
+\i (00:06:27) zoom out 1 
+\i (00:06:27) setwindow pcb
+\i (00:06:27) zoom out 46.4547 90.9402
+\i (00:06:27) trapsize 3319
+\i (00:06:28) roam start
+\i (00:06:28) roam x 64
+\i (00:06:28) roam y -16
+\i (00:06:28) roam x 192
+\i (00:06:28) roam y -32
+\i (00:06:28) roam x 160
+\i (00:06:28) roam y -32
+\i (00:06:28) roam x 64
+\i (00:06:28) roam x -32
+\i (00:06:28) roam end
+\i (00:06:30) pick grid 68.2743 93.8274
+\t (00:06:30) last pick:  68.2740 93.8270
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 47.6327 106.9027
+\i (00:06:35) trapsize 6637
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 86.4602 105.7079
+\i (00:06:35) trapsize 13274
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 55.6637 12.1239
+\i (00:06:36) trapsize 6637
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 55.6638 12.1239
+\i (00:06:36) trapsize 3319
+\i (00:06:36) roam start
+\i (00:06:36) roam x -208
+\i (00:06:36) roam y 32
+\i (00:06:36) roam x -448
+\i (00:06:36) roam y 32
+\i (00:06:36) roam x -320
+\i (00:06:37) roam x -64
+\i (00:06:37) roam x 64
+\i (00:06:37) roam x 176
+\i (00:06:37) roam x 112
+\i (00:06:37) roam x 48
+\i (00:06:37) roam end
+\i (00:06:43) zoom out 1 
+\i (00:06:43) setwindow pcb
+\i (00:06:43) zoom out 73.0531 16.2389
+\i (00:06:43) trapsize 6637
+\i (00:06:43) roam start
+\i (00:06:43) roam y -80
+\i (00:06:43) roam y -80
+\i (00:06:43) roam y -80
+\i (00:06:44) roam y -64
+\i (00:06:44) roam y -16
+\i (00:06:44) roam y -32
+\i (00:06:44) roam y -16
+\i (00:06:44) roam y -32
+\i (00:06:44) roam y -16
+\i (00:06:44) roam y -16
+\i (00:06:44) roam y -16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam x 16
+\i (00:06:45) roam y 32
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 32
+\i (00:06:45) roam y 48
+\i (00:06:45) roam y 48
+\i (00:06:45) roam y 48
+\i (00:06:45) roam y 48
+\i (00:06:45) roam y 32
+\i (00:06:45) roam x -16
+\i (00:06:45) roam y 16
+\i (00:06:45) roam y 16
+\i (00:06:46) roam y -16
+\i (00:06:46) roam end
+\i (00:07:32) zoom out 1 
+\i (00:07:32) setwindow pcb
+\i (00:07:32) zoom out 94.8230 59.2478
+\i (00:07:32) trapsize 13274
+\i (00:07:33) drag_start grid 115.3982 142.2124
+\i (00:07:34) drag_stop -14.6903 77.1682
+\i (00:07:34) pick grid 133.9823 73.7168
+\t (00:07:34) last pick:  133.9820 73.7170
+\t (00:07:34) Moving X1 / CON3_JUMPER3_POWERSUPPLY_DC21MM / JUMPER3.
+\t (00:07:34) Moving TX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:34) Moving C6 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:34) Moving RN3B1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:34) Moving RN1B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:34) Moving 1K2 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:34) Moving XT2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:34) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:07:34) Moving PC1 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:07:34) Moving C5 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:34) Moving XTAL1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:34) Moving U3 / LP2985-33DBVR_SOT95P280X145-5N_ / SOT95P280X145-5N.
+\t (00:07:34) Moving C3 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:07:34) Moving T1 / MOSFET P_SOT23_FDN340P / SOT23.
+\t (00:07:34) Moving PC2 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:07:34) Moving C4 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:34) Moving RN3C1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:34) Moving RN1D1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:34) Moving 1K1 / R2_0_AX375X100031_RN4C / AX375X100031.
+\t (00:07:34) Moving XTAL2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:34) Moving D1 / DIODE_0_SMDRES_M7 / SMDRES.
+\t (00:07:34) Moving C8 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:07:34) Moving RN2D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:34) Moving 1M1 / R2_0_AX375X100031_R2 / AX375X100031.
+\t (00:07:34) Moving C1 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:34) Moving Y2 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:07:34) Moving Y1 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:07:34) Moving RESET1 / SW PUSHBUTTON-SPST-2_BLKCON100V / BLKCON100VHTM2OEW2004.
+\t (00:07:34) Moving R1 / R2_0_AX400X100031_1M / AX400X100031.
+\t (00:07:34) Moving RN3D1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:34) Moving RN2B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:34) Moving 10K2 / R2_0_AX375X100031_RN1C / AX375X100031.
+\t (00:07:34) Moving Z1 / VARISTOR_DAX2300X050028_CGO603M / DAX2300X050028.
+\t (00:07:34) Moving F1 / FUSEHOLDER_FUSM1812X02_MF-MSMF0 / FUSM1812X02.
+\t (00:07:34) Moving D3 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:07:34) Moving L1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:34) Moving RN4B1 / R2_0_AX375X100031_RN4A / AX375X100031.
+\t (00:07:34) Moving RN2C1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:34) Moving 10K1 / R2_0_AX375X100031_RN1A / AX375X100031.
+\t (00:07:34) Moving Z2 / VARISTOR_DAX2300X050028_CG603ML / DAX2300X050028.
+\t (00:07:34) Moving GROUND1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:07:34) Moving RN2A1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:34) Moving RN4D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:34) Moving C2 / CAP POL_CPCYL1D200LS100031_100N / CPCYL1D200LS100031.
+\t (00:07:34) Moving C7 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:34) Moving ON1 / LED_CYLD200LS100031_GREEN / CYLD200LS100031.
+\t (00:07:34) Moving RN3A1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:34) Moving RX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:34) Moving RESET-EN1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:07:34) Moving L2 / BEAD_SML0805_BLM21 / SML0805.
+\t (00:07:34) Moving XT1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:34) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:07:34) Pick new location for the element(s).
+\i (00:07:40) pick grid 135.3097 61.2389
+\t (00:07:40) last pick:  135.3100 61.2390
+\i (00:07:46) drag_start grid 106.9027 121.7699
+\i (00:07:47) drag_stop -9.6460 74.2478
+\i (00:07:48) pick grid 31.5044 87.5221
+\t (00:07:48) last pick:  31.5040 87.5220
+\t (00:07:48) Moving C5 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:48) Moving C6 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:48) Moving X1 / CON3_JUMPER3_POWERSUPPLY_DC21MM / JUMPER3.
+\t (00:07:48) Moving PC1 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:07:48) Moving RN1B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:48) Moving TX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:48) Moving RN3B1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:48) Moving XTAL1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:48) Moving XT2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:48) Moving 1K2 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:48) Moving C3 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:07:48) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:07:48) Moving C4 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:48) Moving T1 / MOSFET P_SOT23_FDN340P / SOT23.
+\t (00:07:48) Moving RN1D1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:48) Moving PC2 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:07:48) Moving RN3C1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:48) Moving XTAL2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:48) Moving 1K1 / R2_0_AX375X100031_RN4C / AX375X100031.
+\t (00:07:48) Moving C8 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:07:48) Moving C1 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:48) Moving RN2D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:48) Moving Y1 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:07:48) Moving 1M1 / R2_0_AX375X100031_R2 / AX375X100031.
+\t (00:07:48) Moving D1 / DIODE_0_SMDRES_M7 / SMDRES.
+\t (00:07:48) Moving RN2B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:48) Moving R1 / R2_0_AX400X100031_1M / AX400X100031.
+\t (00:07:48) Moving RN3D1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:48) Moving Z1 / VARISTOR_DAX2300X050028_CGO603M / DAX2300X050028.
+\t (00:07:48) Moving 10K2 / R2_0_AX375X100031_RN1C / AX375X100031.
+\t (00:07:48) Moving Y2 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:07:48) Moving L1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:48) Moving D3 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:07:48) Moving RN4B1 / R2_0_AX375X100031_RN4A / AX375X100031.
+\t (00:07:48) Moving 10K1 / R2_0_AX375X100031_RN1A / AX375X100031.
+\t (00:07:48) Moving GROUND1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:07:48) Moving RN4D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:48) Moving F1 / FUSEHOLDER_FUSM1812X02_MF-MSMF0 / FUSM1812X02.
+\t (00:07:48) Moving RN2A1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:07:48) Moving RN2C1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:07:48) Moving Z2 / VARISTOR_DAX2300X050028_CG603ML / DAX2300X050028.
+\t (00:07:48) Moving C2 / CAP POL_CPCYL1D200LS100031_100N / CPCYL1D200LS100031.
+\t (00:07:48) Moving C7 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:07:48) Moving RN3A1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:07:48) Moving ON1 / LED_CYLD200LS100031_GREEN / CYLD200LS100031.
+\t (00:07:48) Moving RX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:07:48) Moving RESET-EN1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:07:48) Moving L2 / BEAD_SML0805_BLM21 / SML0805.
+\t (00:07:48) Moving XT1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:07:48) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:07:48) Pick new location for the element(s).
+\i (00:07:50) pick grid 29.9115 88.8496
+\t (00:07:50) last pick:  29.9120 88.8500
+\i (00:07:50) pick grid 91.7699 64.1593
+\t (00:07:50) last pick:  91.7700 64.1590
+\i (00:07:51) zoom in 1 
+\i (00:07:51) setwindow pcb
+\i (00:07:51) zoom in 50.6195 41.5929
+\i (00:07:51) trapsize 6637
+\i (00:07:52) roam start
+\i (00:07:52) roam x -192
+\i (00:07:52) roam y -80
+\i (00:07:52) roam end
+\i (00:07:53) roam start
+\i (00:07:53) roam y 80
+\i (00:07:53) roam y 48
+\i (00:07:53) roam y 32
+\i (00:07:54) roam end
+\i (00:07:54) zoom in 1 
+\i (00:07:54) setwindow pcb
+\i (00:07:54) zoom in 70.2655 22.6106
+\i (00:07:54) trapsize 3319
+\i (00:07:55) zoom out 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom out 71.6593 23.0752
+\i (00:07:55) trapsize 6637
+\i (00:07:56) roam start
+\i (00:07:56) roam x -16
+\i (00:07:56) roam y -48
+\i (00:07:56) roam end
+\i (00:07:58) pick grid 48.8938 83.0089
+\t (00:07:58) last pick:  48.8940 83.0090
+\t (00:07:58) last pick:  48.9753 83.1936
+\t (00:07:58) Moving GROUND1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:07:58) Pick new location for the element(s).
+\i (00:08:01) pick grid 50.7522 78.0974
+\t (00:08:01) last pick:  50.7520 78.0970
+\i (00:08:01) drag_start grid 80.2212 85.3982
+\i (00:08:02) drag_stop 66.5486 75.7080
+\i (00:08:02) pick grid 80.4867 71.9912
+\t (00:08:02) last pick:  80.4870 71.9910
+\t (00:08:02) Moving RESET-EN1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:08:02) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:08:02) Pick new location for the element(s).
+\i (00:08:03) pick grid 80.8849 68.6726
+\t (00:08:03) last pick:  80.8850 68.6730
+\i (00:08:03) pick grid 108.3628 61.7699
+\t (00:08:03) last pick:  108.3630 61.7700
+\i (00:08:05) roam start
+\i (00:08:05) roam x 32
+\i (00:08:05) roam y -96
+\i (00:08:05) roam x 16
+\i (00:08:05) roam y -32
+\i (00:08:05) roam end
+\i (00:08:06) roam start
+\i (00:08:06) roam x 16
+\i (00:08:06) roam y -80
+\i (00:08:06) roam y -16
+\i (00:08:06) roam end
+\i (00:08:06) drag_start grid 85.0000 117.1239
+\i (00:08:07) drag_stop -2.4779 70.6637
+\i (00:08:08) pick grid 43.1858 87.3894
+\t (00:08:08) last pick:  43.1860 87.3890
+\t (00:08:08) Moving X1 / CON3_JUMPER3_POWERSUPPLY_DC21MM / JUMPER3.
+\t (00:08:08) Moving C6 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:08:08) Moving TX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:08:08) Moving RN3B1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:08:08) Moving RN1B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:08:08) Moving 1K2 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:08:08) Moving XT2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:08:08) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:08:08) Moving T1 / MOSFET P_SOT23_FDN340P / SOT23.
+\t (00:08:08) Moving C5 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:08:08) Moving PC1 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:08:08) Moving XTAL1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:08:08) Moving C3 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:08:08) Moving C4 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:08:08) Moving PC2 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:08:08) Moving RN3C1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:08:08) Moving RN1D1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:08:08) Moving 1K1 / R2_0_AX375X100031_RN4C / AX375X100031.
+\t (00:08:08) Moving XTAL2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:08:08) Moving C8 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:08:08) Moving D1 / DIODE_0_SMDRES_M7 / SMDRES.
+\t (00:08:08) Moving 1M1 / R2_0_AX375X100031_R2 / AX375X100031.
+\t (00:08:08) Moving C1 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:08:08) Moving RN2D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:08:08) Moving Y2 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:08:08) Moving Y1 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:08:08) Moving R1 / R2_0_AX400X100031_1M / AX400X100031.
+\t (00:08:08) Moving RN3D1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:08:08) Moving RN2B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:08:08) Moving 10K2 / R2_0_AX375X100031_RN1C / AX375X100031.
+\t (00:08:08) Moving Z1 / VARISTOR_DAX2300X050028_CGO603M / DAX2300X050028.
+\t (00:08:08) Moving F1 / FUSEHOLDER_FUSM1812X02_MF-MSMF0 / FUSM1812X02.
+\t (00:08:08) Moving D3 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:08:08) Moving L1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:08:08) Moving RN2C1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:08:08) Moving RN4B1 / R2_0_AX375X100031_RN4A / AX375X100031.
+\t (00:08:08) Moving Z2 / VARISTOR_DAX2300X050028_CG603ML / DAX2300X050028.
+\t (00:08:08) Moving 10K1 / R2_0_AX375X100031_RN1A / AX375X100031.
+\t (00:08:08) Moving GROUND1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:08:08) Moving RN4D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:08:08) Moving RN2A1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:08:08) Moving C2 / CAP POL_CPCYL1D200LS100031_100N / CPCYL1D200LS100031.
+\t (00:08:08) Moving C7 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:08:08) Moving ON1 / LED_CYLD200LS100031_GREEN / CYLD200LS100031.
+\t (00:08:08) Moving RN3A1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:08:08) Moving XT1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:08:08) Moving RX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:08:08) Moving RESET-EN1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:08:08) Moving L2 / BEAD_SML0805_BLM21 / SML0805.
+\t (00:08:08) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:08:08) Pick new location for the element(s).
+\i (00:08:09) roam start
+\i (00:08:09) roam x -48
+\i (00:08:09) roam y 112
+\i (00:08:09) roam x -64
+\i (00:08:09) roam y 80
+\i (00:08:09) roam x -16
+\i (00:08:09) roam y 48
+\i (00:08:09) roam x -16
+\i (00:08:09) roam y 48
+\i (00:08:09) roam x -32
+\i (00:08:09) roam y 32
+\i (00:08:09) roam y 32
+\i (00:08:09) roam end
+\i (00:08:17) pick grid 97.6106 75.4425
+\t (00:08:17) last pick:  97.6110 75.4430
+\i (00:08:18) pick grid 101.1947 13.1859
+\t (00:08:18) last pick:  101.1950 13.1860
+\i (00:16:03) roam start
+\i (00:16:03) roam y -64
+\i (00:16:04) roam y -64
+\i (00:16:04) roam y -32
+\i (00:16:04) roam y -16
+\i (00:16:04) roam y -32
+\i (00:16:04) roam y -32
+\i (00:16:04) roam x 32
+\i (00:16:04) roam y -32
+\i (00:16:04) roam x 16
+\i (00:16:04) roam y -32
+\i (00:16:04) roam x 48
+\i (00:16:04) roam y -96
+\i (00:16:04) roam y -32
+\i (00:16:04) roam x -16
+\i (00:16:04) roam end
+\i (00:16:05) drag_start grid 142.2125 122.8319
+\i (00:16:06) drag_stop 9.6018 56.1947
+\i (00:16:07) drag_start grid 6.1505 102.1239
+\i (00:16:08) drag_stop 134.5133 59.6460
+\i (00:16:08) pick grid 135.3098 59.9115
+\t (00:16:08) last pick:  135.3100 59.9120
+\t (00:16:08) Moving U3 / LP2985-33DBVR_SOT95P280X145-5N_ / SOT95P280X145-5N.
+\t (00:16:08) Moving RESET1 / SW PUSHBUTTON-SPST-2_BLKCON100V / BLKCON100VHTM2OEW2004.
+\t (00:16:08) Moving X1 / CON3_JUMPER3_POWERSUPPLY_DC21MM / JUMPER3.
+\t (00:16:08) Moving PC1 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:16:08) Moving C5 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:16:08) Moving TX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:16:08) Moving C6 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:16:08) Moving RN1B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:16:08) Moving RN3B1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:16:08) Moving 1K2 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:16:08) Moving XTAL1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:16:08) Moving XT2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:16:08) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:16:08) Moving C3 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:16:08) Moving T1 / MOSFET P_SOT23_FDN340P / SOT23.
+\t (00:16:08) Moving PC2 / CAP POL_CPCYL1D200LS100031_47U / CPCYL1D200LS100031.
+\t (00:16:08) Moving C4 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:16:08) Moving RN1D1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:16:08) Moving RN3C1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:16:08) Moving 1K1 / R2_0_AX375X100031_RN4C / AX375X100031.
+\t (00:16:08) Moving XTAL2 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:16:08) Moving C8 / CAP NP_RAD200X100LS100031_1U / RAD200X100LS100031.
+\t (00:16:08) Moving RN2D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:16:08) Moving C1 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:16:08) Moving Y1 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:16:08) Moving D1 / DIODE_0_SMDRES_M7 / SMDRES.
+\t (00:16:08) Moving R1 / R2_0_AX400X100031_1M / AX400X100031.
+\t (00:16:08) Moving 1M1 / R2_0_AX375X100031_R2 / AX375X100031.
+\t (00:16:08) Moving RN2B1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:16:08) Moving RN3D1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:16:08) Moving 10K2 / R2_0_AX375X100031_RN1C / AX375X100031.
+\t (00:16:08) Moving Z1 / VARISTOR_DAX2300X050028_CGO603M / DAX2300X050028.
+\t (00:16:08) Moving Y2 / ZTA_SIPTML2002_16MHZ / SIPTML2002.
+\t (00:16:08) Moving D3 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:16:08) Moving L1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:16:08) Moving RN4B1 / R2_0_AX375X100031_RN4A / AX375X100031.
+\t (00:16:08) Moving 10K1 / R2_0_AX375X100031_RN1A / AX375X100031.
+\t (00:16:08) Moving GROUND1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:16:08) Moving F1 / FUSEHOLDER_FUSM1812X02_MF-MSMF0 / FUSM1812X02.
+\t (00:16:08) Moving RN2A1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:16:08) Moving RN4D1 / R2_0_AX400X100031_1K / AX400X100031.
+\t (00:16:08) Moving RN2C1 / R2_0_AX400X100031_10K / AX400X100031.
+\t (00:16:08) Moving Z2 / VARISTOR_DAX2300X050028_CG603ML / DAX2300X050028.
+\t (00:16:08) Moving C2 / CAP POL_CPCYL1D200LS100031_100N / CPCYL1D200LS100031.
+\t (00:16:08) Moving C7 / CAP NP_RAD200X100LS100031_100N / RAD200X100LS100031.
+\t (00:16:08) Moving RN3A1 / R2_0_AX375X100031_22R / AX375X100031.
+\t (00:16:08) Moving ON1 / LED_CYLD200LS100031_GREEN / CYLD200LS100031.
+\t (00:16:08) Moving RX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:16:08) Moving RESET-EN1 / SW SPST_BLKCON100VHTM1SQW1002_S / BLKCON100VHTM1SQW1002.
+\t (00:16:08) Moving L2 / BEAD_SML0805_BLM21 / SML0805.
+\t (00:16:08) Moving XT1 / CAP NP_RAD200X100LS100031_22P / RAD200X100LS100031.
+\t (00:16:08) Moving D2 / DIODE_0_SMDRES_DIODE / SMDRES.
+\t (00:16:08) Pick new location for the element(s).
+\i (00:16:09) drag_start grid 135.3098 59.9115
+\i (00:16:10) drag_stop grid 31.6372 91.6372
+\e (00:16:10) ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+\i (00:16:11) roam start
+\i (00:16:11) roam x -48
+\i (00:16:11) roam y 80
+\i (00:16:11) roam x -48
+\i (00:16:11) roam y 128
+\i (00:16:11) roam x -32
+\i (00:16:11) roam y 96
+\i (00:16:11) roam y 16
+\i (00:16:11) roam y 96
+\i (00:16:11) roam y 16
+\i (00:16:12) roam y -32
+\i (00:16:12) roam end
+\i (00:16:13) pick grid 84.0708 3.0973
+\t (00:16:13) last pick:  84.0710 3.0970
+\e (00:16:13) ERROR(SPMHA1-73): Text line is outside of the extents.
+\i (00:16:13) pick grid 79.9558 6.2832
+\t (00:16:13) last pick:  79.9560 6.2830
+\e (00:16:13) ERROR(SPMHA1-73): Text line is outside of the extents.
+\i (00:16:14) pick grid 82.4779 6.4159
+\t (00:16:14) last pick:  82.4780 6.4160
+\e (00:16:14) ERROR(SPMHA1-73): Text line is outside of the extents.
+\i (00:16:14) pick grid dbl 82.4779 6.4159
+\t (00:16:14) last pick:  82.4780 6.4160
+\e (00:16:14) ERROR(SPMHA1-73): Text line is outside of the extents.
+\i (00:16:14) prepopup 82.4779 6.2832
+\i (00:16:15) done 
+\i (00:16:15) generaledit 
+\i (00:16:17) zoom in 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom in 16.6372 5.0885
+\i (00:16:17) trapsize 3319
+\i (00:16:17) zoom in 1 
+\i (00:16:17) setwindow pcb
+\i (00:16:17) zoom in 16.6372 5.0885
+\i (00:16:17) trapsize 1659
+\i (00:16:19) pick grid 14.7124 14.2478
+\t (00:16:19) last pick:  14.7120 14.2480
+\i (00:16:20) pick grid 16.7368 10.7633
+\t (00:16:20) last pick:  16.7370 10.7630
+\e (00:16:20) Command not found: 0000000000000000...F3
+\i (00:16:21) add connect 
+\w (00:16:21) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:16:21) Pick first element.
+\i (00:16:21) pick grid 15.0775 14.4801
+\t (00:16:21) last pick:  15.2400 14.6050
+\t (00:16:21) last pick:  15.1178 14.3560
+\t (00:16:21) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:16:21) last pick:  15.1178 14.3560
+\i (00:16:23) pick grid 5.6527 13.6505
+\t (00:16:23) last pick:  5.7150 13.3350
+\t (00:16:23) DRC error(s) created.
+\i (00:16:25) pick grid 22.5443 13.9160
+\t (00:16:25) last pick:  22.8600 13.9700
+\t (00:16:25) DRC error(s) created.
+\i (00:16:26) pick grid 14.5797 13.6505
+\t (00:16:26) last pick:  14.6050 13.3350
+\t (00:16:26) No DRC errors detected.
+\i (00:16:27) mouse_pos 12.4226 14.3142
+\i (00:16:27) mouse_pos 11.7589 14.9447
+\i (00:16:28) pick grid 9.1704 17.2346
+\t (00:16:28) last pick:  8.8900 17.1450
+\t (00:16:28) No DRC errors detected.
+\i (00:16:28) pick grid 5.9514 15.9071
+\t (00:16:28) last pick:  5.7150 15.8750
+\t (00:16:28) DRC error(s) created.
+\i (00:16:29) pick grid 11.2611 9.6018
+\t (00:16:29) last pick:  11.4300 9.5250
+\t (00:16:29) No DRC errors detected.
+\i (00:16:29) prepopup 14.8452 10.6306
+\i (00:16:30) done 
+\i (00:16:30) generaledit 
+\i (00:16:31) pick grid 23.4735 9.0045
+\t (00:16:31) last pick:  23.4950 8.8900
+\i (00:16:31) undo 
+\i (00:16:32) trapsize 1659
+\i (00:16:32) generaledit 
+\i (00:16:33) zoom in 1 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom in 28.2854 10.9956
+\i (00:16:33) trapsize 830
+\i (00:16:33) zoom in 1 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom in 28.8164 12.0244
+\i (00:16:33) trapsize 415
+\i (00:16:33) zoom out 1 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom out 28.7501 11.9332
+\i (00:16:33) trapsize 830
+\i (00:16:33) zoom out 1 
+\i (00:16:33) setwindow pcb
+\i (00:16:33) zoom out 28.7501 11.8336
+\i (00:16:33) trapsize 1659
+\i (00:16:34) zoom out 1 
+\i (00:16:34) setwindow pcb
+\i (00:16:34) zoom out 33.3961 5.7938
+\i (00:16:34) trapsize 3319
+\i (00:16:34) roam start
+\i (00:16:34) roam y -64
+\i (00:16:34) roam x 48
+\i (00:16:34) roam y -96
+\i (00:16:34) roam x 64
+\i (00:16:34) roam y -128
+\i (00:16:34) roam x 64
+\i (00:16:34) roam y -80
+\i (00:16:34) roam x 32
+\i (00:16:34) roam y -48
+\i (00:16:35) roam x 16
+\i (00:16:35) roam y 48
+\i (00:16:35) roam x -16
+\i (00:16:35) roam y 48
+\i (00:16:35) roam x -16
+\i (00:16:35) roam y 16
+\i (00:16:35) roam y 16
+\i (00:16:35) roam end
+\i (00:16:36) roam start
+\i (00:16:36) roam x -64
+\i (00:16:36) roam y 96
+\i (00:16:36) roam x -16
+\i (00:16:36) roam y 32
+\i (00:16:37) roam end
+\i (00:16:40) pick grid 14.3806 37.3452
+\t (00:16:40) last pick:  14.3810 37.3450
+\i (00:16:41) move 
+\t (00:16:41) Select element(s) to move.
+\i (00:16:42) pick grid 11.9912 37.7434
+\t (00:16:42) last pick:  11.9910 37.7430
+\t (00:16:42) last pick:  11.9910 37.7430
+\t (00:16:42) Element has no origin, using pick.
+\t (00:16:42) Pick new location for the element(s).
+\i (00:16:43) prepopup 14.5797 40.7965
+\i (00:16:44) cancel 
+\i (00:16:44) generaledit 
+\i (00:16:46) move 
+\t (00:16:46) Select element(s) to move.
+\i (00:16:47) setwindow form.find
+\i (00:16:47) FORM find all_off  
+\i (00:16:50) FORM find pins YES 
+\i (00:16:51) setwindow pcb
+\i (00:16:51) pick grid 15.5753 39.0045
+\t (00:16:51) last pick:  15.5750 39.0050
+\t (00:16:51) Cannot edit Pin "Icsp1.5". Symbol or drawing must have UNFIXED_PINS property.
+\i (00:16:54) setwindow form.find
+\i (00:16:54) FORM find symbols YES 
+\i (00:16:55) setwindow pcb
+\i (00:16:55) pick grid 15.4425 35.6859
+\t (00:16:55) last pick:  15.4430 35.6860
+\t (00:16:55) last pick:  13.4510 37.0800
+\t (00:16:55) Moving ICSP1 / CON6A_AMPHENOL_95278-101A06LF_3 / AMPHENOL_95278-101A06LF.
+\t (00:16:55) Pick new location for the element(s).
+\i (00:17:01) prepopup 20.2213 46.2390
+\i (00:17:01) done 
+\i (00:17:01) generaledit 
+\i (00:17:04) move 
+\t (00:17:04) Select element(s) to move.
+\i (00:17:04) pick grid 12.3231 37.9425
+\t (00:17:04) last pick:  12.3230 37.9430
+\t (00:17:04) last pick:  13.4510 37.0800
+\t (00:17:04) Moving ICSP1 / CON6A_AMPHENOL_95278-101A06LF_3 / AMPHENOL_95278-101A06LF.
+\t (00:17:04) Pick new location for the element(s).
+\i (00:17:16) setwindow form.mini
+\i (00:17:16) FORM mini angle 45.0000 
+\e (00:17:19) Command not found: RR
+\e (00:17:20) Command not found: R
+\e (00:17:20) Command not found: R
+\e (00:17:20) Command not found: R
+\e (00:17:20) Command not found: R
+\e (00:17:20) Command not found: R
+\e (00:17:21) Command not found: RR
+\e (00:17:21) Command not found: R
+\e (00:17:21) Command not found: R
+\e (00:17:21) Command not found: R
+\e (00:17:22) Command not found: RR
+\e (00:17:22) Command not found: R
+\e (00:17:22) Command not found: R
+\e (00:17:23) Command not found: R
+\e (00:17:23) Command not found: R
+\e (00:17:23) Command not found: R
+\i (00:17:28) FORM mini angle 90.0000 
+\i (00:17:32) setwindow pcb
+\i (00:17:32) pick grid 8.7390 44.7124
+\t (00:17:32) last pick:  8.7390 44.7120
+\i (00:17:33) pick grid 14.4469 28.4514
+\t (00:17:33) last pick:  14.4470 28.4510
+\t (00:17:33) last pick:  18.4960 22.6110
+\t (00:17:33) Moving IC1 / ATMEGA8-TQFP32_1_SOJ28_ATMEGA32 / SOJ28.
+\t (00:17:33) Pick new location for the element(s).
+\i (00:17:35) pick grid 17.5000 22.4779
+\t (00:17:35) last pick:  17.5000 22.4780
+\i (00:17:36) pick grid 6.6815 22.6770
+\t (00:17:36) last pick:  6.6820 22.6770
+\t (00:17:36) last pick:  5.8850 30.9740
+\t (00:17:36) Moving AD1 / CON8_0_SIP8_IOL / SIP8.
+\t (00:17:36) Pick new location for the element(s).
+\i (00:17:39) prepopup 5.7523 30.3761
+\i (00:17:40) rotate 
+\t (00:17:40) Spin the element(s).
+\i (00:17:44) iangle -180.000
+\t (00:17:44) last angle:  180.000 Degrees
+\i (00:17:45) prepopup 5.8850 30.5753
+\i (00:17:47) pick grid 5.8850 30.5753
+\t (00:17:47) last pick:  5.8850 30.5750
+\i (00:17:48) pick grid 5.7523 30.4425
+\t (00:17:48) last pick:  5.7520 30.4430
+\t (00:17:48) last pick:  5.8850 30.5750
+\t (00:17:48) Moving AD1 / CON8_0_SIP8_IOL / SIP8.
+\t (00:17:48) Pick new location for the element(s).
+\i (00:17:50) pick grid 5.6859 14.0487
+\t (00:17:50) last pick:  5.6860 14.0490
+\i (00:17:51) pick grid 18.5620 17.5664
+\t (00:17:51) last pick:  18.5620 17.5660
+\t (00:17:51) last pick:  17.5000 22.4780
+\t (00:17:51) Moving IC1 / ATMEGA8-TQFP32_1_SOJ28_ATMEGA32 / SOJ28.
+\t (00:17:51) Pick new location for the element(s).
+\i (00:17:53) pick grid 15.3098 23.1416
+\t (00:17:53) last pick:  15.3100 23.1420
+\i (00:17:54) pick grid 34.0930 32.5000
+\t (00:17:54) last pick:  34.0930 32.5000
+\t (00:17:54) last pick:  32.0350 25.7970
+\t (00:17:54) Moving IC2 / ATMEGA8-TQFP32_0_SOJ36_ATMEGA8U / SOJ36.
+\t (00:17:54) Pick new location for the element(s).
+\i (00:17:58) pick grid 45.1107 20.0222
+\t (00:17:58) last pick:  45.1110 20.0220
+\i (00:17:58) roam start
+\i (00:17:58) roam x 48
+\i (00:17:58) roam y -32
+\i (00:17:58) roam x 96
+\i (00:17:58) roam y -80
+\i (00:17:59) roam x 48
+\i (00:17:59) roam y -80
+\i (00:17:59) roam x 32
+\i (00:17:59) roam y -64
+\i (00:17:59) roam x 16
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 32
+\i (00:17:59) roam y -32
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 16
+\i (00:17:59) roam y -16
+\i (00:17:59) roam y -48
+\i (00:17:59) roam y -16
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 32
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 48
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 48
+\i (00:17:59) roam y -32
+\i (00:17:59) roam x 16
+\i (00:17:59) roam y -16
+\i (00:17:59) roam x 32
+\i (00:17:59) roam y -16
+\i (00:18:00) roam x 64
+\i (00:18:00) roam y -32
+\i (00:18:00) roam x 112
+\i (00:18:00) roam y -32
+\i (00:18:00) roam x 96
+\i (00:18:00) roam y -32
+\i (00:18:00) roam x 16
+\i (00:18:00) roam y -16
+\i (00:18:00) roam x -48
+\i (00:18:00) roam y 32
+\i (00:18:00) roam x -96
+\i (00:18:00) roam y 80
+\i (00:18:00) roam x -144
+\i (00:18:00) roam y 96
+\i (00:18:00) roam x -64
+\i (00:18:00) roam y 48
+\i (00:18:00) roam x -16
+\i (00:18:00) roam y 16
+\i (00:18:00) roam x -32
+\i (00:18:00) roam x -16
+\i (00:18:00) roam y 16
+\i (00:18:00) roam x -48
+\i (00:18:00) roam y 16
+\i (00:18:00) roam x -48
+\i (00:18:00) roam y 16
+\i (00:18:00) roam x -64
+\i (00:18:00) roam y 48
+\i (00:18:00) roam x -64
+\i (00:18:00) roam y 48
+\i (00:18:00) roam x -16
+\i (00:18:00) roam y 32
+\i (00:18:00) roam x -16
+\i (00:18:00) roam y 32
+\i (00:18:01) roam y 32
+\i (00:18:01) roam y 16
+\i (00:18:01) roam y 32
+\i (00:18:01) roam y 16
+\i (00:18:01) roam end
+\i (00:18:02) pick grid 49.3584 42.0575
+\t (00:18:02) last pick:  49.3580 42.0580
+\t (00:18:02) last pick:  43.9820 42.1240
+\t (00:18:02) Moving X2 / CON4_JUMPER4_CON4 / JUMPER4.
+\t (00:18:02) Pick new location for the element(s).
+\i (00:18:05) pick grid 22.0797 44.4469
+\t (00:18:05) last pick:  22.0800 44.4470
+\i (00:18:06) pick grid 44.3142 38.7389
+\t (00:18:06) last pick:  44.3140 38.7390
+\t (00:18:06) last pick:  43.7170 38.6730
+\t (00:18:06) Moving U2 / CON4_JUMPER4_NCP117ST50T3G / JUMPER4.
+\t (00:18:06) Pick new location for the element(s).
+\i (00:18:06) pick grid 21.6814 40.9292
+\t (00:18:06) last pick:  21.6810 40.9290
+\i (00:18:07) drag_start grid 47.3009 33.8274
+\i (00:18:07) drag_stop 43.6505 33.6947
+\t (00:18:07) last pick:  43.5840 34.4250
+\t (00:18:07) Moving JP1 / CON4A_JUMPER4_2X2 M - NM / JUMPER4.
+\t (00:18:07) Pick new location for the element(s).
+\i (00:18:08) pick grid 21.5487 37.7433
+\t (00:18:08) last pick:  21.5490 37.7430
+\i (00:18:09) pick grid 22.8097 36.9469
+\t (00:18:09) last pick:  22.8100 36.9470
+\t (00:18:09) last pick:  21.5490 37.7430
+\t (00:18:09) Moving JP1 / CON4A_JUMPER4_2X2 M - NM / JUMPER4.
+\t (00:18:09) Pick new location for the element(s).
+\i (00:18:10) roam start
+\i (00:18:10) roam x 16
+\i (00:18:10) roam y 64
+\i (00:18:10) roam x 16
+\i (00:18:10) roam y 112
+\i (00:18:10) roam x 16
+\i (00:18:10) roam y 112
+\i (00:18:10) roam x 16
+\i (00:18:10) roam y 80
+\i (00:18:11) roam y 32
+\i (00:18:11) roam x 32
+\i (00:18:11) roam y -32
+\i (00:18:11) roam end
+\i (00:18:15) pick grid 42.5885 19.8231
+\t (00:18:15) last pick:  42.5890 19.8230
+\i (00:18:15) pick grid 43.8496 25.6638
+\t (00:18:15) last pick:  43.8500 25.6640
+\t (00:18:15) last pick:  45.1110 20.0220
+\t (00:18:16) Moving IC2 / ATMEGA8-TQFP32_0_SOJ36_ATMEGA8U / SOJ36.
+\t (00:18:16) Pick new location for the element(s).
+\i (00:18:16) pick grid 36.8806 22.7434
+\t (00:18:16) last pick:  36.8810 22.7430
+\i (00:18:17) pick grid 48.0974 18.9602
+\t (00:18:17) last pick:  48.0970 18.9600
+\t (00:18:17) last pick:  42.5890 19.8230
+\t (00:18:17) Moving JP1 / CON4A_JUMPER4_2X2 M - NM / JUMPER4.
+\t (00:18:17) Pick new location for the element(s).
+\i (00:18:18) pick grid 47.3009 17.1018
+\t (00:18:18) last pick:  47.3010 17.1020
+\i (00:18:23) roam start
+\i (00:18:23) roam y -64
+\i (00:18:23) roam x -16
+\i (00:18:23) roam y -128
+\i (00:18:23) roam y -112
+\i (00:18:23) roam y -96
+\i (00:18:23) roam y -80
+\i (00:18:23) roam y -16
+\i (00:18:23) roam x -16
+\i (00:18:23) roam y -80
+\i (00:18:23) roam y -80
+\i (00:18:23) roam y -112
+\i (00:18:23) roam x 16
+\i (00:18:23) roam y -112
+\i (00:18:23) roam x 16
+\i (00:18:23) roam y -32
+\i (00:18:24) roam x 96
+\i (00:18:24) roam x 48
+\i (00:18:24) roam x 32
+\i (00:18:24) roam y -32
+\i (00:18:24) roam x 16
+\i (00:18:24) roam y -144
+\i (00:18:24) roam x 16
+\i (00:18:24) roam y -96
+\i (00:18:24) roam y -16
+\i (00:18:24) roam x 32
+\i (00:18:24) roam x 64
+\i (00:18:24) roam y -16
+\i (00:18:24) roam x 32
+\i (00:18:24) roam x 80
+\i (00:18:24) roam y 32
+\i (00:18:24) roam x 80
+\i (00:18:24) roam y 16
+\i (00:18:24) roam x 32
+\i (00:18:24) roam y 32
+\i (00:18:24) roam x 48
+\i (00:18:24) roam y 32
+\i (00:18:24) roam x 32
+\i (00:18:24) roam y 16
+\i (00:18:24) roam end
+\i (00:18:25) pick grid 109.8231 97.9425
+\t (00:18:25) last pick:  109.8230 97.9430
+\t (00:18:25) last pick:  106.8688 97.6636
+\t (00:18:25) Moving RX1 / LED_CYLD200LS100031_YELLOW / CYLD200LS100031.
+\t (00:18:25) Pick new location for the element(s).
+\i (00:18:26) pick grid 110.7523 99.6018
+\t (00:18:26) last pick:  110.7520 99.6020
+\i (00:18:26) pick grid 115.4646 102.3231
+\t (00:18:26) last pick:  115.4650 102.3230
+\i (00:18:26) prepopup 115.5310 102.3231
+\i (00:18:27) done 
+\i (00:18:27) generaledit 
+\i (00:18:28) zoom out 1 
+\i (00:18:28) setwindow pcb
+\i (00:18:28) zoom out 113.8054 100.7965
+\i (00:18:28) trapsize 6637
+\i (00:18:28) zoom out 1 
+\i (00:18:28) setwindow pcb
+\i (00:18:28) zoom out 125.7522 99.6018
+\i (00:18:28) trapsize 13274
+\i (00:18:29) zoom in 1 
+\i (00:18:29) setwindow pcb
+\i (00:18:29) zoom in 56.4602 69.2035
+\i (00:18:29) trapsize 6637
+\i (00:18:29) zoom in 1 
+\i (00:18:29) setwindow pcb
+\i (00:18:29) zoom in 56.9912 70.7965
+\i (00:18:29) trapsize 3319
+\i (00:18:30) roam start
+\i (00:18:30) roam x 48
+\i (00:18:30) roam y -64
+\i (00:18:30) roam x 16
+\i (00:18:30) roam y -96
+\i (00:18:30) roam y -48
+\i (00:18:30) roam end
+\i (00:18:46) pick grid 125.8186 92.4336
+\t (00:18:46) last pick:  125.8190 92.4340
+\i (00:19:22) zoom out 1 
+\i (00:19:22) setwindow pcb
+\i (00:19:22) zoom out 87.7212 71.9248
+\i (00:19:22) trapsize 6637
+\i (00:19:22) roam start
+\i (00:19:22) roam x -64
+\i (00:19:22) roam y 48
+\i (00:19:22) roam x -96
+\i (00:19:22) roam y 64
+\i (00:19:23) roam x -64
+\i (00:19:23) roam y 48
+\i (00:19:23) roam y 16
+\i (00:19:23) roam y 32
+\i (00:19:23) roam y 32
+\i (00:19:24) roam end
+\i (00:19:26) roam start
+\i (00:19:26) roam x 16
+\i (00:19:26) roam y 48
+\i (00:19:26) roam y -16
+\i (00:19:26) roam end
+\i (00:23:55) drag_start grid 142.0797 98.5398
+\i (00:23:55) drag_stop 8.1416 0.9734
+\i (00:23:55) pick grid 88.0531 33.0973
+\t (00:23:55) last pick:  88.0530 33.0970
+\i (01:10:10) pick grid 94.8230 48.0973
+\t (01:10:10) last pick:  94.8230 48.0970
+\i (01:12:25) pick grid 113.4071 25.6637
+\t (01:12:25) last pick:  113.4070 25.6640
+\i (02:30:18) pick grid 35.4867 67.2124
+\t (02:30:18) last pick:  35.4870 67.2120
+\i (02:30:18) pick grid 35.7522 84.7345
+\t (02:30:18) last pick:  35.7520 84.7350
+\i (02:30:19) move 
+\t (02:30:19) Select element(s) to move.
+\i (02:30:19) pick grid 37.2124 68.6726
+\t (02:30:19) last pick:  37.2120 68.6730
+\t (02:30:19) last pick:  34.7516 65.7366
+\t (02:30:19) Moving RESET1 / SW PUSHBUTTON-SPST-2_BLKCON100V / BLKCON100VHTM2OEW2004.
+\t (02:30:19) Pick new location for the element(s).
+\i (02:30:21) zoom in 1 
+\i (02:30:21) setwindow pcb
+\i (02:30:21) zoom in 57.5221 45.3097
+\i (02:30:21) trapsize 3319
+\i (02:30:22) pick grid 57.2567 45.1770
+\t (02:30:22) last pick:  57.2570 45.1770
+\i (02:30:23) pick grid 18.8275 67.0796
+\t (02:30:23) last pick:  18.8280 67.0800
+\t (02:30:23) last pick:  19.7356 66.1150
+\t (02:30:23) Moving U3 / LP2985-33DBVR_SOT95P280X145-5N_ / SOT95P280X145-5N.
+\t (02:30:23) Pick new location for the element(s).
+\i (02:30:24) pick grid 42.2567 39.9336
+\t (02:30:24) last pick:  42.2570 39.9340
+\i (02:30:26) roam start
+\i (02:30:26) roam x -32
+\i (02:30:26) roam y 96
+\i (02:30:26) roam x -16
+\i (02:30:26

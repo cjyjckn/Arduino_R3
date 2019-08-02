@@ -1,0 +1,62 @@
+Date and Time : 08/02/19 11:28:28
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1831): Unconnected pin RN3B1,1 
+                    SCHEMATIC1, PAGE1  (784.86, 383.54) 
+WARNING(ORCAP-1831): Unconnected pin RN3B1,2 
+                    SCHEMATIC1, PAGE1  (797.56, 383.54) 
+WARNING(ORCAP-1831): Unconnected pin RN3C1,1 
+                    SCHEMATIC1, PAGE1  (784.86, 391.16) 
+WARNING(ORCAP-1831): Unconnected pin RN3C1,2 
+                    SCHEMATIC1, PAGE1  (797.56, 391.16) 
+WARNING(ORCAP-1608): Net has no driving source PS1 
+                    SCHEMATIC1, PAGE1  (368.30, 378.46) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N29551 
+                    SCHEMATIC1, PAGE1  (495.30, 355.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections PS1 
+                    SCHEMATIC1, PAGE1  (368.30, 378.46) 
+
+Checking For Unconnected Bus Nets
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: ARDUINO_UNO 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? +5V  +5V  GND  8  3  2  VIN  UGND  13  CMP  1  7  4  
+                    SCHEMATIC1, PAGE1  (673.10, 284.48) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

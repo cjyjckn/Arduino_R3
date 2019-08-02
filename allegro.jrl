@@ -1,0 +1,248 @@
+\t (00:00:30) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:30)     Journal start - Fri Aug 02 15:35:55 2019
+\t (00:00:30)         Host=USER-PC User=user Pid=6936 CPUs=4
+\t (00:00:30) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:30) 
+   (00:00:30) Loading axlcore.cxt 
+\t (00:00:32) Opening existing design...
+\d (00:00:32) Design opened: C:/Users/user/Desktop/Arduino_r3/arduion_uno_r3-master (2)/arduion_uno_r3-master/arduino_r3_1.brd
+\i (00:00:32) trapsize 6637
+\i (00:00:32) trapsize 6790
+\i (00:00:32) trapsize 6935
+\i (00:00:32) trapsize 6779
+\i (00:00:33) trapsize 108570
+\i (00:00:33) generaledit 
+\i (00:02:12) zoom in 1 
+\i (00:02:12) setwindow pcb
+\i (00:02:12) zoom in 82.3274 61.3221
+\i (00:02:12) trapsize 3390
+\i (00:02:13) zoom out 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom out 49.9235 58.4071
+\i (00:02:13) trapsize 6779
+\i (00:02:14) pick grid 13.7232 65.1861
+\t (00:02:14) last pick:  13.7230 65.1860
+\i (00:02:14) move 
+\t (00:02:15) Select element(s) to move.
+\i (00:02:15) pick grid 14.6723 67.4910
+\t (00:02:15) last pick:  14.6720 67.4910
+\t (00:02:15) last pick:  11.0772 62.4920
+\t (00:02:15) Moving IC2 / ATMEGA8-TQFP32_0_SOJ36_ATMEGA8U / SOJ36.
+\t (00:02:15) Pick new location for the element(s).
+\i (00:02:16) pick grid 33.2469 24.3761
+\t (00:02:16) last pick:  33.2470 24.3760
+\i (00:02:16) pick grid 25.2476 57.5935
+\t (00:02:16) last pick:  25.2480 57.5940
+\t (00:02:16) last pick:  25.0218 59.7488
+\t (00:02:16) Moving IC1 / ATMEGA8-TQFP32_1_SOJ28_ATMEGA32 / SOJ28.
+\t (00:02:16) Pick new location for the element(s).
+\i (00:02:17) pick grid 17.1127 21.9356
+\t (00:02:17) last pick:  17.1130 21.9360
+\i (00:02:18) pick grid 4.3681 81.4559
+\t (00:02:18) last pick:  4.3680 81.4560
+\t (00:02:18) last pick:  7.7240 81.0680
+\t (00:02:18) Moving ICSP1 / CON6A_AMPHENOL_95278-101A06LF_3 / AMPHENOL_95278-101A06LF.
+\t (00:02:18) Pick new location for the element(s).
+\i (00:02:20) pick grid 16.7060 39.5612
+\t (00:02:20) last pick:  16.7060 39.5610
+\i (00:02:22) pick grid 56.5669 55.5598
+\t (00:02:22) last pick:  56.5670 55.5600
+\t (00:02:22) last pick:  55.1966 54.7790
+\t (00:02:22) Moving ICSP2 / CON6AP_3_AMPHENOL_95278-101A06L / AMPHENOL_95278-101A06LF.
+\t (00:02:22) Pick new location for the element(s).
+\i (00:02:24) pick grid 53.7197 41.0526
+\t (00:02:24) last pick:  53.7200 41.0530
+\i (00:02:25) pick grid 43.5511 64.5082
+\t (00:02:25) last pick:  43.5510 64.5080
+\t (00:02:25) last pick:  44.5544 69.6040
+\t (00:02:25) Moving AD1 / CON8_0_SIP8_IOL / SIP8.
+\t (00:02:25) Pick new location for the element(s).
+\i (00:02:25) pick grid 61.1767 30.8840
+\t (00:02:25) last pick:  61.1770 30.8840
+\i (00:02:26) pick grid dbl 61.1767 30.8840
+\t (00:02:26) last pick:  61.1770 30.8840
+\t (00:02:26) last pick:  61.1770 30.8840
+\t (00:02:26) Moving AD1 / CON8_0_SIP8_IOL / SIP8.
+\t (00:02:26) Pick new location for the element(s).
+\i (00:02:27) iangle -90 
+\t (00:02:27) last pick:  27.0000 0.0000
+\i (00:02:27) iangle -90 
+\t (00:02:27) last pick:  27.0000 0.0000
+\i (00:02:28) pick grid 5.3171 12.7161
+\t (00:02:28) last pick:  5.3170 12.7160
+\i (00:02:28) pick grid 50.4657 59.3561
+\t (00:02:28) last pick:  50.4660 59.3560
+\t (00:02:28) last pick:  48.5676 69.6040
+\t (00:02:28) Moving POWER1 / CON8_0_SIP8_8X1F-H8.5 / SIP8.
+\t (00:02:28) Pick new location for the element(s).
+\i (00:02:30) pick grid 61.9901 22.6136
+\t (00:02:30) last pick:  61.9900 22.6140
+\i (00:02:30) pick grid 44.7713 78.6086
+\t (00:02:30) last pick:  44.7710 78.6090
+\t (00:02:30) last pick:  38.8592 78.3670
+\t (00:02:30) Moving U2 / CON4_JUMPER4_NCP117ST50T3G / JUMPER4.
+\t (00:02:30) Pick new location for the element(s).
+\i (00:02:31) iangle -90 
+\t (00:02:31) last pick:  27.0000 0.0000
+\i (00:02:31) iangle -90 
+\t (00:02:31) last pick:  27.0000 0.0000
+\i (00:02:31) iangle -90 
+\t (00:02:31) last pick:  27.0000 0.0000
+\i (00:02:33) pick grid 15.6213 63.2880
+\t (00:02:33) last pick:  15.6210 63.2880
+\i (00:02:34) pick grid 35.9585 79.5577
+\t (00:02:34) last pick:  35.9590 79.5580
+\t (00:02:34) last pick:  33.4236 78.2146
+\t (00:02:34) Moving RESET1 / SW PUSHBUTTON-SPST-2_BLKCON100V / BLKCON100VHTM2OEW2004.
+\t (00:02:34) Pick new location for the element(s).
+\i (00:02:34) pick grid 37.1788 80.1000
+\t (00:02:34) last pick:  37.1790 80.1000
+\i (00:02:37) pick grid 34.8739 65.4573
+\t (00:02:37) last pick:  34.8740 65.4570
+\t (00:02:37) last pick:  33.7848 74.6840
+\t (00:02:37) Moving IOH1 / CON10_SIP10_10X1F-H8.5 / SIP10.
+\t (00:02:37) Pick new location for the element(s).
+\i (00:02:39) pick grid 31.0776 30.0705
+\t (00:02:39) last pick:  31.0780 30.0710
+\i (00:02:39) pick grid 35.6874 31.8331
+\t (00:02:39) last pick:  35.6870 31.8330
+\t (00:02:39) last pick:  35.6870 31.8330
+\t (00:02:39) Element has no origin, using pick.
+\t (00:02:39) Pick new location for the element(s).
+\i (00:02:40) prepopup 36.3653 32.7822
+\i (00:02:41) oops 
+\t (00:02:41) last pick:  35.6870 31.8330
+\i (00:02:43) pick grid 98.1904 48.5096
+\t (00:02:43) last pick:  98.1900 48.5100
+\i (00:02:44) pick grid 37.5855 31.1552
+\t (00:02:44) last pick:  37.5860 31.1550
+\t (00:02:44) last pick:  33.2470 24.3760
+\t (00:02:44) Moving IC2 / ATMEGA8-TQFP32_0_SOJ36_ATMEGA8U / SOJ36.
+\t (00:02:44) Pick new location for the element(s).
+\i (00:02:45) pick grid 43.8222 19.6308
+\t (00:02:45) last pick:  43.8220 19.6310
+\i (00:02:46) pick grid 30.8064 20.4443
+\t (00:02:46) last pick:  30.8060 20.4440
+\t (00:02:46) last pick:  31.0780 30.0710
+\t (00:02:46) Moving IOH1 / CON10_SIP10_10X1F-H8.5 / SIP10.
+\t (00:02:46) Pick new location for the element(s).
+\i (00:02:47) iangle -90 
+\t (00:02:47) last pick:  27.0000 0.0000
+\i (00:02:47) iangle -90 
+\t (00:02:47) last pick:  27.0000 0.0000
+\i (00:02:48) pick grid 31.8911 9.8689
+\t (00:02:48) last pick:  31.8910 9.8690
+\i (00:02:50) roam start
+\i (00:02:50) roam y -112
+\i (00:02:50) roam x -32
+\i (00:02:50) roam y -192
+\i (00:02:50) roam x -16
+\i (00:02:50) roam y -48
+\i (00:02:50) roam end
+\i (00:02:50) roam start
+\i (00:02:50) roam x 64
+\i (00:02:50) roam y 96
+\i (00:02:51) roam x 160
+\i (00:02:51) roam y 128
+\i (00:02:51) roam x 160
+\i (00:02:51) roam y 112
+\i (00:02:51) roam end
+\i (00:02:51) roam start
+\i (00:02:51) roam x -368
+\i (00:02:51) roam y 32
+\i (00:02:51) roam x -32
+\i (00:02:52) roam end
+\i (00:02:52) pick grid 29.3151 78.8023
+\t (00:02:52) last pick:  29.3150 78.8020
+\t (00:02:52) last pick:  22.9080 78.3670
+\t (00:02:52) Moving X2 / CON4_JUMPER4_CON4 / JUMPER4.
+\t (00:02:52) Pick new location for the element(s).
+\i (00:02:53) pick grid 23.2140 39.7549
+\t (00:02:53) last pick:  23.2140 39.7550
+\i (00:02:54) pick grid 40.1616 80.0225
+\t (00:02:54) last pick:  40.1620 80.0230
+\t (00:02:54) last pick:  37.1790 80.1000
+\t (00:02:54) Moving RESET1 / SW PUSHBUTTON-SPST-2_BLKCON100V / BLKCON100VHTM2OEW2004.
+\t (00:02:54) Pick new location for the element(s).
+\i (00:02:54) pick grid 37.1788 39.4837
+\t (00:02:54) last pick:  37.1790 39.4840
+\i (00:02:57) pick grid 18.0619 78.6667
+\t (00:02:57) last pick:  18.0620 78.6670
+\t (00:02:57) last pick:  18.4076 78.5930
+\t (00:02:57) Moving U3 / LP2985-33DBVR_SOT95P280X145-5N_ / SOT95P280X145-5N.
+\t (00:02:57) Pick new location for the element(s).
+\i (00:02:58) pick grid 7.7577 44.9070
+\t (00:02:58) last pick:  7.7580 44.9070
+\i (00:02:59) pick grid 16.0282 64.0239
+\t (00:02:59) last pick:  16.0280 64.0240
+\t (00:02:59) last pick:  15.6210 63.2880
+\t (00:02:59) Moving U2 / CON4_JUMPER4_NCP117ST50T3G / JUMPER4.
+\t (00:02:59) Pick new location for the element(s).
+\i (00:02:59) iangle -90 
+\t (00:02:59) last pick:  27.0000 0.0000
+\i (00:03:00) pick grid 6.9442 4.9105
+\t (00:03:00) last pick:  6.9440 4.9110
+\i (00:03:01) pick grid 12.5030 88.8353
+\t (00:03:01) last pick:  12.5030 88.8350
+\t (00:03:01) last pick:  13.9072 90.8130
+\t (00:03:01) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:03:01) Pick new location for the element(s).
+\i (00:03:02) iangle -90 
+\t (00:03:02) last pick:  27.0000 0.0000
+\i (00:03:02) pick grid 32.4335 4.0970
+\t (00:03:02) last pick:  32.4340 4.0970
+\i (00:03:04) pick grid 31.8912 4.0970
+\t (00:03:04) last pick:  31.8910 4.0970
+\t (00:03:04) last pick:  32.4340 4.0970
+\t (00:03:04) Moving 6X1F-H8.1 / CON6_SIP6_8X1F-H8.5 / SIP6.
+\t (00:03:04) Pick new location for the element(s).
+\i (00:03:05) pick grid 32.5691 5.5884
+\t (00:03:05) last pick:  32.5690 5.5880
+\i (00:03:06) pick grid 105.1051 44.2291
+\t (00:03:06) last pick:  105.1050 44.2290
+\i (00:03:07) pick grid 38.2635 54.2621
+\t (00:03:07) last pick:  38.2640 54.2620
+\t (00:03:07) last pick:  38.8775 53.0940
+\t (00:03:07) Moving U1 / LM358_2_SOIC8_LM358IDGKR / SOIC8.
+\t (00:03:07) Pick new location for the element(s).
+\i (00:03:07) pick grid 58.3295 30.3998
+\t (00:03:07) last pick:  58.3300 30.4000
+\i (00:03:08) pick grid 52.6351 77.5821
+\t (00:03:08) last pick:  52.6350 77.5820
+\t (00:03:08) last pick:  49.2732 78.3670
+\t (00:03:08) Moving JP1 / CON4A_JUMPER4_2X2 M - NM / JUMPER4.
+\t (00:03:08) Pick new location for the element(s).
+\i (00:03:09) pick grid 46.6695 5.0461
+\t (00:03:09) last pick:  46.6700 5.0460
+\i (00:03:10) roam start
+\i (00:03:10) roam x -48
+\i (00:03:10) roam y 96
+\i (00:03:10) roam x -32
+\i (00:03:10) roam y 80
+\i (00:03:10) roam x -64
+\i (00:03:10) roam y 96
+\i (00:03:10) roam x -16
+\i (00:03:10) roam y 48
+\i (00:03:10) roam end
+\i (00:03:11) roam start
+\i (00:03:11) roam x 32
+\i (00:03:11) roam y -48
+\i (00:03:11) roam y -16
+\i (00:03:11) roam x 16
+\i (00:03:11) roam y -32
+\i (00:03:11) roam x 16
+\i (00:03:11) roam y -32
+\i (00:03:11) roam end
+\i (00:03:12) pick grid 87.6150 39.8904
+\t (00:03:12) last pick:  87.6150 39.8900
+\e (00:03:12) Command not found: ~S
+\i (00:03:13) pick grid tgl 85.7169 40.1615
+\t (00:03:13) last pick:  85.7170 40.1620
+\e (00:03:13) Command not found: ~S
+\e (00:03:14) Command not found: ~S
+\e (00:03:14) Command not found: ~S
+\i (00:03:15) save_as 
+\i (00:03:25) fillin "arduino_r3_1.brd"
+\i (00:03:25) generaledit 
+\i (00:03:26) exit 
+\t (00:03:26)     Journal end - Fri Aug 02 15:38:52 2019
